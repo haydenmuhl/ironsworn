@@ -1,0 +1,129 @@
+Rhian makes camp for the night, and tries to use his knowledge of the local plant life to make a poultice to ease his aches and pains. Some plants can look remarkably similar, and it is easy to make a mistake. Rhian has a restless sleep and has troubling dreams.
+
+    Ask the Oracle, theme
+    87, strength
+
+Rhian finds himself in the temple under his village. It's the night of the theft, and he sees Rui talking to... someone. He can't see who they are or what they look like. Rhian's vision follows them as they open the secret chamber. Rui is fascinated by the artifact, and doesn't notice the knife in the hands of the cloaked figure. Rui turns and says, "I never expected...", and that's when the knife finds Rui's throat.
+
+The cloaked figure, their hands wet with Rui's blood, picks up the artifact. Rhian can see a dark web stretching out from the stranger, and as they take the artifact, the web surges with strength. Whatever happened at Stonecrest is part of something much larger. Will Rhian be strong enough to complete his vow?
+
+The cloaked figure quickly leaves the temple. Rui, choking on her own blood, unable to cry out, pulls herself across the floor after her murderer before she finally falls still.
+
+Rhian wakes up with the sun, and Belloy curled up by his side. The flock/herd has moved on in the night, and there is no sign of the bandits from yesterday. Time to set out for Sword Ridge.
+
+    Undertake a Journey, +wits
+    (2+2 vs 1,3) strong hit
+    Mark progress
+    Waypoint: I don't think there are any settlements between Stonecrest and Sword Ridge. Instead, I meet someone else travelling.
+
+The air is cold and clear this morning. No sign of the troubles from yesterday, including the storm. We make good time, and eventually spot the smoke of a camp fire in the distance. We approach cautiously, unsure of who we will find out here.
+
+    Meta: This person will be nice to us, whoever they are. I mean, I did get a strong hit.
+
+    Ask the Oracle, generate an NPC
+    Name: Reese (83)
+    Role: Hunter (80)
+    Descriptor: Confused, doomed, aloof
+
+As we approach, we can see what looks like a makeshift hunting camp, and we can hear terrible singing. I think who ever is here has been celebrating. They don't seem hostile, so we make our presence known. The hunter isn't even startled as he hears us approach, and welcomes us to have a seat by his fire. It's only when I get closer that I see the seeping wound in his side.
+
+He doesn't seem to be in any pain. In fact, he seems to occasionally forget we are with him, and is surprised to see us sitting by the fire. His side is soaked in black blood, but when I try to point it out to him, he takes no notice of it, and tells me to not make a fuss any time I try to help.
+
+He tells me his name is Reese. His actions are becoming more and more eratic as the evening goes on, but he is never aggressive. He seems to be losing his grip on reality, and his wound continues to fester. Finally, he becomes to weak to object to my care, and I can finally look at the wound. It's a series of punctures, in a straight line. The skin is swollen and red, and they ooze the black blood that has been soaking into his clothes. I'm not optimistic about Reese's chances. Whatever bit him has potent venom. I bandage him up as best I can and lay him down to rest.
+
+    Meta: Reese is doomed. No heal roll.
+
+The sun has set by the time I've tended to Reese. I'll have to make camp here.
+
+    Make Camp, +supply
+    (6+4 vs 5,8) strong hit
+    +1 health, +1 momentum
+
+Reese doesn't make it through the night. He begins to shout and rave. I have to put my hand over his mouth to keep him quiet.
+
+    Face Danger, +iron
+    (5+2 vs 6,9) weak hit
+    Endure stress, -1 spirit
+
+    Endure Stress, +heart
+    (5+3 vs 5,1) strong hit
+    -1 momentum, +1 spirit
+
+Fortunately, his cries do not attract any attention in the night. His calls become increasingly distressed until he falls silent and goes limp.
+
+Reese isn't going to be needing his things any longer. Let's see if there's anything here I can make use of.
+
+    Resupply, +wits
+    (2+2 vs 6,7) miss
+    Pay the Price
+
+Unfortunately, Reese's camp is in shambles. I don't know how long ago he became delerious, but all of his supplies are ruined, and there is no food. I suppose the best thing I can do is give him a proper burial. I bury Reese at the foot of a large tree, and carve his name into the bark with my hatchet.
+
+    Meta: Earlier that night I scaveneged for herbs and bound my own wounds.
+
+    Heal, +iron, +2 herbalist
+    (6+4 vs 6,7) strong hit
+    +2 health
+
+I was lucky enought to find a stand of xunu mushrooms growing on a nearby stump. These have wonderful healing properties, and are very envigorating. My heart is heavy from having to see Reese's last moments, but my body will be able to carry me forward on the next leg of my journey.
+
+    Undertake a Journey, +wits
+    (3+2 vs 8,9) miss
+    Pay the Price
+
+    Pay the Price, roll d100
+    38, the current situation worsens
+
+    Meta: p. 139, hunters have the tactic of setting traps. My current situation is leaving a hunting camp. What if Belloy finds a trap. ;-;
+
+    Companion Endure Harm, 1 harm, roll + companion health
+    (6+3 vs 7,10) weak hit
+    Your companion is battered
+
+Belloy begins sniffing at the ground and runs off into the nearby woods. Before I can do anything, he's out of sight, I hear a snap and a yelp. I run over to find one of Belloy's paws caught in a trap. This must belong to Reese. Wonderful. I suppose no good deed goes unpunished. Belloy seems to be able to walk on his leg still, and it's early in the day. We should try to make time.
+
+    Undertake a journey, +wits
+    (4+2 vs 5,10) weak hit
+    Reach a waypoint, mark progress, -1 supply
+
+The rest of the day is uneventful. We make good time towards Sword Ridge, and find a temperate lowland where we can camp for the night. There seems to be ample game here. Fortunately, Belloy's nose was not caught in that trap. Let's see if we can catch anything tasty for dinner tonight.
+
+    Resupply, +wits
+    (6+2 vs 9,10) miss
+    Pay the Price
+
+    Meta: Ugh
+
+Strange. The animals here seem to be extra wary of our presence. Why would they be on hightened alert? It's like when the goats are acting agitated, and we find a wolf lurking near by. I think I'll take the cue and keep an eye out myself. I almost want to press on, but it's getting dark. We'll have to make camp here.
+
+    Make Camp, +supply
+    (6+3 vs 5,9) weak hit
+    Prepare: +1 to undertake a journey
+
+    Meta: This place feels important. What's here? Let's give it a name. This is place [3].
+
+    Meta: Don't want to venture out to gather herbs, this place is dangerous, straight roll to patch up Belloy
+
+    Heal (Belloy), +wits
+    (2+2 vs 3,10) weak hit
+    +2 health for Belloy, -1 momentum
+
+I don't want to spend a moment more than I have to here. I found a good place to make camp on the edge of the valley that will restrict how things can sneak up on us. I didn't light a fire tonight, and want to set out first thing.
+
+    Undertake a Journey, +wits, +1
+    (4+3 vs 5,10) weak hit
+    Mark progress, -1 supply
+
+    Meta: I think we make it to Sword Ridge?
+
+    Reach your Destination, vs 9 progress
+    (3,9) weak hit :-|
+    You arrive but face an unforeseen hazard or complication
+
+    We'll find out what happens... NEXT TIME
+
+Momentum: 2
+Health:   5
+Spirit:   3
+Supply:   3
+Belloy:   4

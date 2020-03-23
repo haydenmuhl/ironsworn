@@ -1,0 +1,88 @@
+It's the day of Rhian's Great Game. This is a coming of age ritual where Rhian is expected to hunt and kill one of the migrating beasts in the valley below. He will be supported by older hunters from his village, but is expected to hunt alone. Not everyone succeeds at the Great Game, and there is no shame in an unsuccessful hunt, but Rhian's success or failure must be his own.
+
+Larem and Rui, two of Stonecrest's more experienced hunters are acting as Rhian's seconds, helping him plan his Game.
+
+
+* The caves under Stonecrest house an Ancient ruin used as a temple by the town
+* Inciting Incident: Someone or -thing opens a secret chamber in the temple, removes something and disappears into the night. Either Larem or Rui are killed during the theft. I inherit their iron hatchet and swear an Iron Vow to track down the scoundrel (and in the process may discover whatever secret our temple held).
+
+
+Rhian's Great Game
+
+Rhian, Larem and Rui are standing on the cliff next to Stonecrest watching the valley below. Signs of a large herd of beasts were seen on the horizon yesterday, marking today as the best time for Rhian to finally conduct his ritual hunt. As the herd came into view in the valley below, the beasts revealed themselves as giant beetles. Not the fastest prey, but well armored, and armed with dangerous horns.
+
+Rhian plans his hunt with Larem and Rui, by watching the behavior of the herd.
+
+    Secure an advantage, +wits
+    (4+2 vs 9, 2) Weak hit
+    +1 momentum
+
+Not a whole lot going on inside a beetle's head. Easy to fool, but their herd mentality is pretty strong. This won't be easy for Rhian.
+
+Rhian calls his hunting dog, Belloy, and makes his way down into the valley with Larem and Rui. Rhian will try to disturb the herd and isolate one of the beetles. Larem and Rui will be there to resupply him with spears and keep a look out, but bringing down the beast is Rhian's job.
+
+    Enter the Fray, attempting to kill a giant beetle, dangerous
+    Facing off, +heart
+    (4+3 vs 2, 3) Strong hit
+    +2 momentum, initiative
+
+Rhian sends Belloy towards the herd to try to disturb them. A small stampede results. One of the beetles turns the wrong direction and is isolated from the rest of the herd. Rhian charges in with a spear and strikes against the large insect.
+
+    Srike, +iron
+    (2+2 vs 2,2) Critical hit
+    3 harm (6 boxes)
+
+Beetles sure are dumb. This one just fled in a straight line, making it easy picking. Rhian lunges with his spear, and lodges it deep in the abdomen at the base of one of the legs. (The villagers see this from their vantage point on the cliff and are impressed, especially Nell). The herd takes little notice of the carnage and avoids the hunting party.
+
+Larem passes Rhian another spear, and encourages Rhian to take another pass at the beast.
+
+    Strike, +iron
+    (1+2 vs 3,3) Critical miss
+    lose initiative
+
+Oversure from his first strike, Rhian makes the mistake of facing the beetle head on. He charges at the beetle, trying to end the hunt with one more blow to the beetle's head. Most of a beetle is armor, the front is where all the pointy bits are. Rhian lunges with his spear, but the spear becomes caught in the beetle's horns, and the beetle rears its head. Caught off guard, Rhian fails to let go of the spear and is flung into the air.
+
+    Face Danger, +edge
+    (2+1, vs 2,9) weak hit
+
+Rhian is lands on the beetle's head. Having Rhian in a vulnerable position, the beetle grinds Rhian into the dirt.
+
+    Endure Harm, -2 health, roll +health (3)
+    (1+3 vs 3,9) weak hit
+    -2 health, carry on
+
+Rhian has been thrown for a loop. He's not sure where his spear is, and his mouth is full of dirt. Just as he's getting his bearings, he sees the beetle bearing down on him.
+
+    Clash, +iron
+    (3+2 vs 1,8) weak hit
+    1 harm (2 boxes)
+
+As the beetle charges, Belloy comes racing to Rhian's rescue. This gives Rhian just enough time to grab a nearby stick and bash the beetle in the face. But not before the beetle can attempt to gore Belloy.
+
+    Companion Endure Harm, +heart (3)
+    (2+3 vs 8,10) miss
+    -1 momentum
+    2 harm to Belloy
+
+Belloy yelps as the beetle's horns pierce his hind leg. This has gone on long enough. This is Rhian's moment. Rhian will have his trophy, fates willing.
+
+    End the Fight
+    (8 progress vs 4,8) weak hit
+
+    Endure Harm, -2 health, roll +iron
+    (1+2 vs 9,10) miss
+    -1 momentum
+
+Seeing Belloy in danger, Rhian picks up a rock and lunges at the beetle. With the beetle engaged with Belloy, Rhian sees his opening. He vaults on to the back of the beetle and starts bashing its head with the rock. The beetle reels, but can't shake Rhian. In its death throes, the beetle's last instict is to flee. The beetle's fate is already sealed, but it tries to run anyway. Rhian is nearly thrown free from the beetle, but makes the bad decision to hold on to one of its horns. As the beetle flees, Rhian is trampled beneath the beetle's feet.
+
+Rhian lets go and the beetle continues to run, but only makes it about 100 feet before faltering and slumping to the ground.
+
+Battered and bruised, Rhian lays on the ground. Belloy limps over and starts licking his face. About this time Larem and Rui catch up to him to make sure he's still in one piece.
+
+Rui says, "Were you trying to get yourself killed? If you were, you failed."
+
+Larem says, "Give him a break, Rui. He's still in breathing. He could have done far worse. Let's signal for the village to come collect the carcass. Tonight's feast will be in honor of Rhian."
+
+As Rhian limps back to the village, he thinks about how the beetle's horns will look hanging above his door.
+
+

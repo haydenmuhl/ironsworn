@@ -1,0 +1,113 @@
+Not long after leaving Stonecrest, Rhian picked up some unwanted company. Someone was stalking him, and would not show themselves. In an attempt to turn the tide on them, Rhian circled back to see if he could find his pursuers' tracks. Since he had been leading them by the nose, it wasn't hard to find where they had been, but what he found was strange.
+
+The first tracks he found were bare footprints. Not uncommon for raiders living in the wilds. But then he started to notice hand prints along side. These bandits seemed to be moving on all fours like a pack of animals. But he had also heard them using signals to communicate as they stalked him. So, a feral mentality, but still an intact intellect.
+
+Rhian realizes how close he is to Stonecrest, and the danger that these raiders pose to his home. His best course of action is to lead the bandits on a chase away from Stonecrest and then try to lose them in the rocky landscape of the Hinterlands.
+
+    Dangerous Scene Challenge
+    Evade the feral bandits
+
+Rhian still doesn't know who is attackers are, precicely. If he can get more information about them, he might be able to attune his Talisman to aid him in his pusuit.
+
+    Secure an Advantage, +wits
+    (5+2 vs 8,10) miss
+    Mark countdown, feral bandits
+
+The tracks are not hard to follow, but there is nothing to be found besides more prints. There's nothing to do but run and pray. Rhian makes a run for it to try to lead the bandits away.
+
+    Face Danger, +edge
+    (4+1 vs 3,7) weak hit
+    Mark progress, mark countdown, feral bandits
+    -1 momentum
+
+Running seems to have taken the bandits by surprise. It gave me a good head start, but they seem to be faster than me and it wasn't long before their shreiks and cries began to draw closer again. This was a good start, but even if I could keep up this pace, I won't be able to outrun them.
+
+There's a steep ridge ahead. I'd normally avoid it, but I may be able to use it to my advantage. If I can get them to follow me, then trigger a rock fall, that may help me keep them at bay and make a further escape towards Sword Ridge.
+
+    Secure an Advantage, +iron
+    (5+2 vs 5,8) weak hit
+    +1 momentum
+
+Belloy wasn't happy about the steep face of the ridge, but we managed to make it up to the top eventually. The cover of the forest below ran out near the bottom of the ridge, and the bandits had to show themselves for the first time in order to keep up their pursuit. I barely got a look at them, naked and covered in mud, before raining boulders down on them. The cliff face wasn't as unstable as I had hoped, but it did afford me the opportunity to make a break for it. I hope they like the taste of rocks.
+
+I may not be the fastest when moving over open ground, but these crags and canyons have been my home. I haven't lost them yet, but at least they're taking the bait. We'll see how they do when they don't have trees to hide behind anymore. They're fast, but let's see how their stamina is.
+
+    Face Danger, +iron
+    (6+2 vs 1,8) weak hit
+    Mark progress, mark countdown, feral bandits
+    -1 health
+
+The rugged terrain was not a friend to anyone today. I was making my way down the length of the ridge and slipped on a loose rock. I skidded down most of the other side of the ridge. The descent hurt, but at least it was fast.
+
+It looks like a herd of some kind may be migrating through the valley below. I don't know if they're tracking me by scent, tracks or something else, but maybe if I run with the herd it will obscure my tracks.
+
+Follow the tracks of the reptilian bird beasts migrating nearby.
+
+    Secure an Advantage, +wits
+    (2+2 vs 2,7) weak hit
+    +1 momentum
+
+I only caused a minor stampede as I approached the birds, but I was able to follow their tracks well enough.
+
+I'm happy about the progress we've made away from Stonecrest, but I'm going to have to do something to save my own skin. I think I'll be able to follow this herd close enough to obscure my own tracks, but if I really want to lose these "bandits", I'll probably need to do something else to throw them off my scent. Maybe if I attach one of my head scarves to a bird and chase it in the wrong direction, it will drop it in the forest. It's a long shot, but I don't want to leave the herd myself.
+
+    Face Danger, +shadow
+    (4+1 vs 5,5) crit miss
+    Burn momentum for a strong hit
+    +1 momentum
+
+Holy shit, they took the bait. The bird dropped by scarf near the tree line. I was able to hide among these dumb birds and watch the bandits from relative safety. As soon as they found my scarf they headed off into the woods to look for me.
+
+I'm not sure why I'm still calling them bandits. They hardly seem human. What happened to those poor broken bastards?
+
+I'm not sure what the best course of action is next. I could try to stay hidden with the herd, but that would keep me near the bandits with how slow the herd is moving. I could make a run for it, but that would risk exposure.
+
+    Meta: Either way, it's probably a roll +shadow. Hide in herd, vs sneak off unnoticed. Let's flip a coin.
+    1-3: herd
+    4-6: sneak away
+    1, herd
+
+I'm exhausted from today's chase. I'm not sure how well I'd do trying to hoof it over land. I think it would be best to keep my head down, follow the herd and hope for the best.
+
+    Face Danger, +shadow
+    (5+1 vs 5,8) weak hit
+    Mark progress, mark countdown, feral bandits
+    Endure stress
+
+    Meta: Oops! I haven't been rolling for the harm moves!
+
+Those broken bastards have lost the scent, but now they're fanning out looking for me. Fuck.
+
+    Endure Stress
+    -1 spirit
+    roll +heart
+    (3+3 vs 4,6) weak hit
+    press on
+
+    Meta: Countdown track is full on the bandits. Time to roll progress.
+
+    Scene challenge progress, roll vs 8 progress
+    (8 vs 3,6) strong hit
+    We escape the bandits unconditionally
+
+    Meta: This feels like progress towards Sword Ridge. Should I mark progress? I want to.
+
+As the sun sets, the bandits seem to give up. They don't know where I went, and eventually disperse. They seem to pay no attention to the bird herd. Once it's dark, Belloy and I break from the herd and find a crag in the rocks to tuck ourselves away in for the night.
+
+    Make Camp, +supply
+    (1+4 vs 1,4) strong hit
+    Relax: +1 spirit, Prepare: +1 to Undertake a Journey
+
+This has been much rougher than Rhain expected. Rhian tries to patch himself up. He has a supply of herbs in his pack, and gathers what he can from around his camp site.
+
+    Heal, +wits, +2 herbalist
+    (1+4 vs 7,9) miss
+    Pay the price
+
+    Meta: Ugh. What happens?
+
+Momentum: 3
+Health:   2
+Spirit:   3
+Supply:   4
+Belloy:   4

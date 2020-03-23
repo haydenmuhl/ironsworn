@@ -1,0 +1,126 @@
+Rhian makes his way back up to the village. Rhian carries Belloy, due to his injured leg. A group of villagers on their way to collect the carcass congratulate Rhian as they pass by.
+
+When Rhian finally makes it up to the village, the rest of the village is waiting and cheers when they see him. Nell approaches, she's not smiling. She punches his arm on one of his developing bruises and says, "You're an idiot!" Then she puts her arm around his neck and says, "But you're an impressive idiot." Belloy whines a bit and starts trying to lick Nell. She protests a bit, and then scratches behind his ears.
+
+Rhian says, "It's your turn next year. You'll have to show me how it's done."
+
+After the necessary pleasantries, Rhian and Nell head off together to patch up Rhian.
+
+    Rhian lives in Stonecrest, but we'll treat this as a sojourn. It will tell us how much rest Rhian can get before the next thing happens.
+
+    Sojourn, +heart, +1 bond w/ Stonecrest
+    (5+4 vs 6, 2) strong hit
+    Recuperate and Plan
+
+    Recuperate is just healing and resting.
+    Planning? Nothing to plan for, yet. But we know that will change. We will narrate this planning later.
+
+Rhian and Nell patch up Belloy. Some of the villagers butchering the beetle stop by with a treat for Belloy to reward him for how well he did during the hunt. Probably some weird beetle guts that dogs love. Rhian has no serious wounds, but is sore and bruised. Nell wraps his scrapes, and spreads ointment over his sore muscles. Lots of people are coming by to pay their respects, which prevents Nell and Rhian from having as much alone time as they would like to have.
+
+Eventually, someone stops by to tell Rhian he's been summoned by the Elder's Council. Nell tries to argue that Rhian needs to rest here (perhaps a bit selfishly), but Rhian says the Council knows he's well enough. Cepheri is there to greet Rhian when he arrives at the central hut? tent? long house? They drape Rhian with some ceremonial vines or branches and make their way down to the temple in the cave below. They says some words, burn incense, etc. and Rhian is initiated into the village as a full citizen.
+
+The sun has gone down by the time they emerge from the temple. Rhian is greeted with a bonfire and the smell of roasting meat, and cheers from all his friends and family gathered. Giant festival, yadda, yadda.
+
+Eventually people retire.
+
+The next morning. ;-;
+
+It's not until late in the morning that the body is discovered.
+
+    Who died? One of the two people who supported Rhian during his Great Game.
+    1-3: Larem
+    4-6: Rui
+    5 - Rui
+
+Rui's body is found lying in the temple, next to her, her prized iron hatchet. One of the walls of the temple has been opened. A secret door that no one knew was there. Examining the chamber, there is a pedestal inside, and clearly something has been removed. What was in here? Who took it? Who killed Rui?
+
+Rhian feels guilt that his celebration was used as cover for this crime, and that it resulted in the death of one of his friends. Rhian picks up Rui's hatchet, and swears on the iron axe head that he will find who did this.
+
+    This is the background vow, no need to roll Swear and Iron Vow
+
+Rhian's initial rage has ebbed to become a sense of determination. He asks the other villagers if they saw anything during the feast. He also scours the temple for any clues.
+
+   Gather Information, +wits, +1 Stonecrest bond
+   (2+3 vs 3,8) weak hit
+   +1 momentum, and a complication or new danger
+
+Something suggests Rui wasn't there by chance. She may have been in on whatever was going on. Maybe the way her body was left suggests she didn't surprise the intruder. Her body was well within the secret chamber. Clearly the next step in the journey is to retrace Rui's recent whereabouts. She often went on trips to trade with neighboring villages.
+
+Next stop will be...
+
+    86 - Sword...
+    28 - ...ridge
+
+..., named for the imposing peak it sits beneath. You'd expect this mountain to be further north in the Veiled Mountains. Offers similar defensive capabilites to Stonecrest. Overlooks the Deep Wilds to the southwest and Havens to southeast. Not necessarily a large trade hub, but they are well situated to deal in resources unique to the other surrounding regions. In particular, they make excursions into the Wilds.
+
+    N.B. The "planning" from earlier is us having a good idea where Rui spent her time recently, and planning out the first leg or two of the quest.
+
+Before setting off on the journey, Cepheri calls for Rhian. They meet in her hut. She offers some words of wisdom for his journey, and then removes a pendant from around her neck. (This is Rhian's Talisman asset). Will the talisman accept Rhian? (It will, but what will it cost?)
+
+    Face Danger, +iron
+    (3+2 vs 7, 9) miss
+    Pay the price, roll on mystic backlash table
+    51 - you waste resources (-1 supply)
+
+The initial attunement to the talisman costs, but not obviously, and not immediately. It makes Rhian hungrier than he otherwise would be. His rations do not last him as long on the first leg of his journey.
+
+This takes place over the course of a couple days, maybe. Rhian spends one last night in the village with Nell. She doesn't want him to leave, but knows she cannot stand in the way of his Vow. She does what she can to help him prepare.
+
+    Heal, +wits
+    (3+2 vs 5,6) miss
+
+Their last evening together should have been nice, but things come to a head. Nell and Rhian have a fight. Why do you need to get back whatever was taken? We don't even know what it was!? We never knew we had it!?
+
+    Endure Stress
+    -1 spirit
+    roll +spirit
+    (6+4 vs 8,6) strong hit
+    Embrace the darkness: +1 momentum
+
+In the morning, Rhian sets off for Swordridge.
+
+    Undertake a Journey, Travel to Swordridge, troublesome
+    Initial roll, +wits, +1 bond Stonecrest
+    (1+3 vs 4,9) miss
+    Storms move in, we get lost
+
+    Ideas:
+        Weather makes us get lost
+        Bandits
+        Varou
+        Beast
+
+    Ask the Oracle
+        Likely: Bandits (26+)
+        Unlikely: Varou
+    79 - bandits
+
+The weather turned. Fog rolled in, making it hard for Rhian and Belloy to find their way. Not a good omen for the start of what should have been a routine journey to a neighboring settlement.
+
+Belloy always is the first to notice trouble. Belloy starts growling at something unseen in the fog. Rhian will try to find higher ground to get above the fog, but that will take him in the wrong direction. Better to get to Swordridge late, rather than in pieces.
+
+    Secure an Advantage, +iron, endurance and strength to get to higher ground quickly
+    (6+2 vs 2,9) weak hit
+    +1 momentum
+
+Whoever it is following Rhian hasn't shown themselves, but they're persistent. It's unclear whether the calls coming from the tree line are birds, or communication between whoever is pursuing Rhian. Rhian is going to have to take more decisive action.
+
+Rhian realized, he's a hunter. He's trained Belloy from a pup to help him track. Why is he fleeing like prey. He needs to turn the tables on whoever is after him. He probably won't be able to lure them out into the open, so he will have to find some way to flank them, or get behind them so he can put his best skills to use. He decides to lead them in a circle, in an attempt to see if they leave any information behind.
+
+    Secure an Advantage, +wits
+    (5+2 vs 5,9) weak hit
+    +1 momentum
+
+This is taking most of the day, and we're making no progress towards Swordridge, but we've double backed and found the tracks of our pursuers. Come on, Belloy. Let's see what you can find out about our hidden pursuers.
+
+    Gather Information, +wits, +1 sharp hound
+    (2+3 vs 8,5) miss
+    Are they actually varou? !!!
+
+Tune in next time, to find out!
+
+    Momentum: 8
+    Health: 3
+    Spirit: 4
+    Supply: 4
+    Belloy: 4

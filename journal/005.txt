@@ -1,0 +1,166 @@
+Brainstorming for what goes wrong as Rhian approaches Sword Ridge
+  * They don't let him in
+  * SR has been attacked
+  * SR is on fire
+  * The thief has been here and did something
+  * No one is here
+  * The town is gone
+  * Something bad is _about_ to happen (does Rhian get blamed?)
+  * Someone notices Rhian's hatchet
+  * Iron is distrusted (maybe not, because that doesn't make much sense)
+  * Hatchet is stolen (iron is rare and precious, more precious than gold? than silver?)
+  * Town is insular. Rui had some sort of in, which is why she came here instead of anyone else
+  * Town doesn't like my snooping around. How could they be involved in Rui's death?
+  * Rui had unfinished business, and Rhian has to finish it.
+    * A debt?
+    * A feud?
+    * ... an unfinished vow? She carried iron. Is that the price you pay for carrying the precious metal?
+      * "You carry Rui's iron, and the iron carries the vow."
+      * As Rhian uncovers more of Rui's past, will more come back to haunt him?
+    * A secret? (well, obv. she was in cahoots)
+
+Unforseen trouble: Rui had an unfinished vow.
+
+As Rhian approaches Sword Ridge, he's imrpessed by its immense size.
+
+    Meta: It's tiny, but all Rhian knows is his own village, which is even tinier.
+
+It's mid afternoon when he arrives. It's getting towards the end of the day, but things are still bustling. Rhian is a bit overwhelmed by it all. Nothing prepared him for this. At least it's safe here.
+
+    Soujourn, +heart
+    (5+3 vs 2,4) strong hit
+    +2 spirit, +2 supply
+
+    Meta: Hey, momentum at 2, health, spirit and supply at 5. We're back to the beginning of the game. XD
+
+People here are easy to talk to, and generous. There's a lodge for all the travelers coming in from other near by towns. Inside it's warm and smoky and quite pleasant.
+
+At night, after business has concluded, travelers in the lodge generally gather around the central fire pit and exchange pleasantries and stories. Rhian uses this as an opportunity to look for people who knew Rui.
+
+    Gather Information, +wits
+    (5+2 vs 5,9) weak hit
+    +1 momentum, and a new danger
+
+Rhian meets someone
+
+    Name: 83, Fanir
+    Goal: 95, Resolve a dispute
+    Descriptors: 41, Stingy; 97, Cowardly
+
+    Meta: Is this dispute related to Rui's unfinished vow, or something unrelated?
+          I think Fanir makes us help him in exchange for info, and then rats us out to whoever Rui swore the vow to.
+
+Rhian is conspicuously mentioning that he's from Stonecrest, hoping someone who knows Rui will recognize the name. A small squirrelly man takes interest when he hears the name Stonecrest.
+
+Fanir: "Stonecrest? That's not too far from here, to the northeast. We don't get many of you folk down here."
+Rhian: "I'm surprised you know about us at all. Where have you traveled from?"
+Fanir: (Stingy with info) "Oh, I'm not really from anywhere. I come and go."
+Rhian: "How did you hear of Stonecrest? I take it you've never been there. Visitors are something of a big deal. I'd probably remember if you'd been there."
+Fanir: "I keep my ears open. I meet people. Met someone not long ago from Stonecrest here in town. What was their name?"
+Rhian: "The only person who generally came here was Rui. I'm here in her stead this time."
+Fanir: "Oh, that's right. She was a stern one, but played a mean game of Wands."
+Rhian: "Really. Never knew her to be the gambling type."
+
+    Meta: Maybe Fanir has a gambling debt in town, and I've got to help him pay it off.
+
+Fanir: "It was mostly for entertainment. Would you like to play a game?"
+Rhian: "I'm not the gambling type."
+Fanir: "Suit yourself."
+
+Rhian presses the topic of Rui. Fanir gets suspicious and sees his opportunity. He'll introduce me to some people if I do him a favor. It's dark, and offician business is concluded for the day. The "favor" can wait until morning.
+
+    Who does Fanir owe a debt to?
+    2, a criminal
+    Gender: 1-3 male, 4-6 female
+    4, female
+    Name: KD, Kiriad
+
+    Kiriad is not a king pin. She's not in charge of much, but at the same time, she's no push over. Not someone you want to cross. She definitely lives in Sword Ridge. Maybe Fanir can't leave until his debt is paid.
+
+At first light, Fanir rouses Rhian, Fanir hasn't been forthcoming with information. Rhian presses Fanir for information about this "favor" he's supposed to do.
+
+    Compel, +heart
+    (1+3 vs 1,10) weak hit
+    +1 momentum, Fanir will tell us, but only if Rhian gives his word to help out. Not a vow, but close enough.
+
+    Gather Information, +wits, +1
+    (3+3 vs 1,2) strong hit
+    +2 momentum
+
+Fanir is a gets a bit agitated at Rhian's questions. Before giving any details, he needs to know if Rhian is in or out. Rhian says he already agreed to help, and that hasn't changed. Good enough for Fanir. Fanir tells Rhian that they're going to go meet Kiriad. Fanir sort of lost something valuable during a game of Wands, and he can't leave town until he gets it back. Kiriad has been holding it over his head for the past couple weeks. All they have to do is convince her to give it back. Maybe do a job for her.
+
+Just so you know, Kiriad's job is to help people. She's the kind of person you go to for help when... more legitimate avenues of help are not available.
+
+    Meta: What does Fanir let slip about Rui?
+
+This is the kind of thing Rui would have helped me with, but she made herself scarce after that stranger showed up. It's good that you've happened along. (Still haven't told Fanir that Rui is dead)
+
+They arrive at Kiriad's place, a little outside of town.
+
+    * She's a tanner
+
+There are skins and furs hanging out on racks, and steaming, boiling vats that smell foul. Kiriad is outside scraping a skin as they approach.
+
+Kiriad: Hello, Fanir. Who's your friend?
+Fanir: This is Rhian. I've brought him here to help us settle our dispute.
+Kiriad: If you think you can intimidate me, it's going to take more than that.
+Fanir: No, no, no. You misunderstand. This is purely business. You know what I want, and I know you've always got odd jobs that need doing. Rhian here has agreed to help us out.
+Kiriad: Alright, pretty boy. What's your story?
+Rhian: Like Fanir said, I'm here to help out. Do you need a hand scraping hides?
+
+She looks Rhian up and down.
+
+Kiriad: No, I think I can find a better use for you. Come inside. Let's talk.
+
+She tosses her tools aside and waves for Fanir and Rhian to follow her.
+
+Her house doubles as her shop. There's no clear demarcation of her living space and working space. It's sort of a gradient from one side of the building to the other. She leads them past most of the work area to a table. Oddly, there's no place where some leather working tool is not within arms reach...
+
+Kiriad: Look, Fanir. We've been over this. It was a fair game.
+Fanir: There was nothing fair about that. You literally took the coat off my back.
+Kiriad: It looks better on me anyway.
+
+Fanir is too angry to respond. Rhian is looking a little annoyed that all this is over a damn coat.
+
+Rhian: Look, what is it going to take to settle this debt?
+Kiriad: Well, tell me a bit about yourself. What can you do for me?
+Rhian: <From Stonecrest, hunter, etc.>
+
+    Rhian will have to swear a vow to do something. (Ooo, Fanir doesn't rat Rhian out, Kiriad does)
+    Kiriad needs Rhian to...
+      - What's prohibited here? Probably not hunting monsters, probably not poaching, it's a wild land with numerous beasts and no real land owners.
+      - What kind of criminal things is she involved in that she needs help with?
+        - She holds animal fights
+        - She runs illegal gambling
+        - She trades in contraband. Black market. What kind?
+          - "Magic" stuff? People are superstitious? She probably has access to animal parts.
+          - Firstborn trinkets
+          - Mostly counterfeit stuff, but some is legit so people buy?
+            - Or she keeps the good stuff for herself?
+          - gems? arcane reagents?
+        - Charlatan?
+          - She needs help convincing someone a ritual worked!
+          - She doesn't tell Rhian that, just
+      - knock some heads
+      - poach a beast (is poaching really a thing in this society?)
+      - steal something
+      - Do X, which will get her Y
+      - Hunt a monster for its skin, or some kind of bounty, or revenge....
+
+    Kiriad is a charlatan fortune teller on the side. She uses animal parts to "divine" the future. Others in the underworld mostly know she's a total fake. Her front is mostly to the rubes. But if anyone calls her on it, she "curses" the low life who speaks against her. She's a fake witch. She needs help convincing someone that some spell of hers worked. What is it?
+
+    She could absolutely make an honest living as a tanner and leather worker, and she basically does, but there's something that the honest life just can't give her. She has to lie and cheat. Something drives her to it. And she's good at it.
+
+    Who does she need to convince and why?
+      - Someone with more money than sense
+      - A "noble" of this town, but not the mayor or anything
+
+Momentum: 6
+Health:   5
+Spirit:   5
+Supply:   5
+Belloy:   4
+
+
+
+

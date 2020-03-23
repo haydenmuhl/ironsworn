@@ -1,0 +1,11 @@
+Retrace your steps
+
+When you travel along a route you know well and feel are relatively safe, you may make this move instead of Undertake a Journey. Roll +wits.
+
+Strong hit, you arrive at your destination. Describe your journey (+1 momentum?)
+Weak hit, you arrive at your destination, but choose one:
+
+    -
+    -
+
+Miss, misfortune befalls you along your way. Pay the Price, then roll this move again.

@@ -1,0 +1,121 @@
+    Meta: Still figuring out what Kiriad wants from Rhian.
+
+    Ask the Oracle: Character goal
+    91, to escape from something
+
+    She doesn't need to physically escape anything.
+      - She is bound legally/socially in some way she is unwilling to (openly) break
+      - She is the town tanner and hates it. (She dreams to become a full time criminal)
+      - She has to care for someone/something
+
+    She was the oldest in her family and was expected to take over the family craft. Her younger (1-3 brother, 4-6 sister, 3) brother, Emelyn, was not given the "honor" of taking over the family business, and was allowed to choose his trade. She needs Rhian to fight in the pit. She will convince Emelyn that Rhian was hired to throw the fight, but Rhian doesn't know this and will fight to win. Emelyn will lose the bet and lose his business and have to work at the tannery. XD (And, if Rhian loses, Emelyn will owe her a favor for the tip.)
+
+Kiriad: You look like you could handle yourself in a fight.
+Rhian: I usually try to avoid fighting if I can, but you're not wrong.
+Kiriad: I need a champion for the upcoming pit fights. They're non-lethal, hand to hand and one on one. You're new in town and would be a wild card. An... unknown quantity could be very useful to me.
+Rhian: That's it? You just need me to beat someone up?
+Kiriad: Oh, please. That's such an uncivilized way of looking at it. It's honorable combat. Equals meeting on level ground for a test of skill and endurance.
+
+Rhian is skeptical of Kiriad's motivations, but can't see anything immediately or obviously wrong with the idea.
+
+Kiriad: Now, don't go mouthing off about this. If people know who you are it will ruin the surprise, and my advantage. These fights aren't exactly a secret, but not everyone in town looks favorably on the practice.
+Rhian: Alright. When and where?
+Kiriad: (in the next day or two)
+Rhian: What am I supposed to do in the mean time?
+Kiriad: Lay low. Entertain yourself. Tell you what...
+
+Kiriad walks over to a work bench and reaches into a concealed cranny. She tosses a small pouch to Rhian.
+
+Kiriad: ... your room and board is on me until the fight.
+
+Rhian is real suspicious at this point.
+
+Rhian: Really? What exactly is in this for you?
+Kiriad: Don't worry about it. All you have to do is show up and try not to make a fool of yourself.
+Rhian: And what if I skip town with your coin?
+Kiriad: You don't seem the type. Besides, if you did, it wouldn't end well for you.
+
+Something about the way she said that last sentence sends a chill down Rhian's spine.
+
+Fanir pipes up.
+
+Fanir: Well, I'm so glad we could come to this arrangement. So, our new friend fights in the pit, and you return what you took from me?
+Kiriad: That seems to be the deal.
+Fanir: Wonderful. We'll see you again in a couple days. A pleasure doing business with you.... as.. always. (a bit of a sneer)
+
+Rhian gets bored waiting for the fight and wanders around the town. As he's poking around town, his hatchet gets noticed.
+
+    Who notices Rhian's hatchet?
+    Ask the Oracle
+    Name: 14, Haleema
+    Role: 25, forester
+    Gender: (1-3 male, 4-6 female) 3, male
+    42, timid; 52, cautious
+
+    Where do they meet?
+    Theme: 52, passage
+
+Rhian is bored and goes for a hike with Belloy on the mountain outside of town. He runs into Haleema who will not let him go any further. Haleema is responsible for guarding this part of the forest, because...
+  - "royal" hunting grounds
+  - something dangerous in there
+    - people have gone missing
+    - people have fallen off cliffs
+    - people have been found maimed
+... some reason. But the important thing is Haleema notices the iron on Rhian's belt. Haleema complements the weapon and asks to see it. Rhian hands it over.
+
+Haleema: This is a fine piece of iron. Not many have the good fortune to carry such a weapon.
+Rhian: I wouldn't really call how I came by this "good fortune".
+Haleema: Really. Tell me more.
+Rhian: I was close with its former owner. I inherited it.
+
+It takes a moment for this to sink in, but then Rhian sees a Haleema's eyes widen, and then his frame sort of sinks and weakens.
+
+Haleema: Inherited? This is Rui's axe. What happened to her? Where did you get this?
+
+    Convince Haleema I didn't rob or kill Rui
+    Compel, +heart
+    (3+3 vs 2,3) strong hit
+    +1 momentum
+
+Rhian is less concerned about being threatened with his own weapon and is more interested in finding someone who knew Rui well enough to recognize her hatchet.
+
+Rhian: Wait, you knew Rui?
+
+Haleema is put off guard by Rhian's reaction, and it breaks the tension. Rhian tells the story of Rui's death. Rhian and Haleema sit and talk a bit about Rui. Rhian wants to see if Haleema knows anything that can shed light on what was going on with Rui.
+
+    Gather Information, +wits, +1 from previous move
+    (2+3 vs 7,7) crit miss
+
+    Meta: This whole quest is about unearthing a dire threat. What could I discover that would undermine this? Let's put a pin in this, and reserve this as a major plot twist that happens after Rhian swears to complete Rui's vow.
+
+Haleema talks about how he got to know Rui when she was here from time to time. There's nothing particularly useful. Then Haleema brings up the iron again...
+
+    What Iron Vow did Rui swear?
+    Ask the Oracle: Settlement Trouble
+    58, lost caravan
+
+Rui was supposed to help find out whatever was going on in the forest here. Some merchants went into the forest and never returned. People have been telling stories of strange things in the area. That's why Haleema was patroling to keep people away. Rhian agrees to complete what Rui left unfinished and swears on Rui's hatchet to finish what she started.
+
+    Swear an Iron Vow, dangerous, +heart
+    (5+3 vs 1,10) weak hit
+    +1 momentum, the path forward is unclear
+
+Haleema jokes, "Looks like you'll get to finish your hike after all."
+
+Rhian tells Haleema he has some previous engagements he has to attend to in the next day, but will come back after those are dealt with. After all, this is no longer a rescue mission and more of a recovery mission. It's been a couple weeks since Rui was last here, another day should not matter all that much. Haleema agrees, and says Rhian knows where to find him.
+
+    Meta: How close were Rui and Haleema, really?
+
+    Ask the Oracle
+    Unlikely: Romantically involved, Likely: Close comrades
+    12, unlikely result, Rui and Haleema were banging!
+
+Momentum: 8
+Health:   5
+Spirit:   5
+Supply:   5
+Belloy:   4
+
+Note: Outstaning crit fail from a Gather Information move. Something Haleema told us comes back to bite us regarding our background quest.
+
+

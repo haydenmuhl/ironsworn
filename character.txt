@@ -1,0 +1,40 @@
+Name: Rhian
+Exp: _
+
+Edge:   1
+Heart:  3
+Iron:   2
+Shadow: 1
+Wits:   2
+
+Momentum: 2
+Health:   5
+Spirit:   5
+Supply:   5
+
+Assets:
+    Hound, Sharp (Belloy, the goodest boy)
+    Talisman
+    Herbalist
+
+Notes:
+
+Has Rui's iron hatchet.
+Has a sling, mostly to act as a deterrant. Probably doesn't give +1 to attacks?
+
+Bonds: - * _ _ _ _ _ _ _ _
+
+Stonecrest - settlement, where Rhian grew up. Situated at the top of a cliff. Allows surveying of the various beasts in the valleys below and serves as natural fortification against enemies. But, also means no chance of retreat in case of an attack. Settlement includes high caves accessible from the top of the cliff.
+
+(Mentor on the elders' council) Cepheri. Sort of an adoptive grandmother figure. Probably one of the first settlers!
+
+(Lover/Sweetheart) Nell
+
+
+==Vows==
+
+Inciting Incident/Background Vow: Someone steals something from the Ancient temple below the village, and ___ dies in the process. Inherit their iron hatchet and swear a vow to restore the village's honor.
+
+    Rank: Extreme
+    Find who killed Rui. Make them pay. Return what was stolen.
+
