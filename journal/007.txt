@@ -1,0 +1,229 @@
+    Meta: Still an outstanding crit fail on Gather Information with Haleema. Something Haleema tells us
+          reveals a dire threat or unwelcome truth, and an extra twist.
+
+    Brainstorming - unwelcome truth
+    - When Haleema talked about Rui, she sounds like a different person
+    - Haleema is about to double cross us somehow
+    - The two of us are waylayed by an unexpected event
+      - The thing Haleema is warning people of comes for us
+      - We're attacked by... (bleh, boring)
+      - The ground gives way underneath us
+      - We walk and talk and don't pay attention to where we're going, end up in trouble
+    - Rui was an imposter, she had a life she ran away from, it caught up to her, what could this mean for Stonecrest?
+    - Rui knew about the thing all along, and was a long term mole
+    - Rui had a secret, but it was unrelated to the theft/murder, a red herring
+    - Haleema invites Rhian home to talk and have a meal, and Rhian finds something there about Rui
+      - Rui made art (not like her) that Rhian misinterprets
+      - Rui needed something regularly she couldn't get in Stonecrest, which is why she came to trade
+    - Rui had apocalyptic dreams
+    - Rui was dying
+
+    Ask The Oracle, Theme
+    74: Ruin
+    (Nevermind, thought of something I like better)
+
+Rhian offers to help patrol with Haleema for the rest of the afternoon so they can talk about Rui. Rhian tells Haleema how Rui died, and Haleema tells Rhian about the time he spent with Rui while she was at Sword Ridge. As the sun sets, Haleema asks Rhian if he will join him for a meal as thanks for helping patrol.
+
+As Rhian looks around the inside of Haleema's home, he notices a shelf with odd trinkets and a couple notebooks. Asking about them, Haleema says that those are... were... Rui's. Rui had a deep interest in the firstborn and would always want to know anything other travelers might know about them, or trinkets they could trade. If that's true, Rui kept it a secret for some reason, because this is the first time Rhian has heard of it.
+
+Why would Rui keep this a secret? Could this have something to do with her death? Could the first born be behind it? (probably not, this is likely going to be a red herring and get Rhian into deep trouble).
+
+Rhian asks Haleema if he can take the journal. It may help him figure out what happened below Stonecrest, and how Rui was killed.
+
+    Convince Haleema to give me Rui's journal
+    Compel, +heart
+    (4+3 vs. 1,9) weak hit
+
+Haleema is reluctant, but will agree, if...
+
+    What does Haleema want?
+    Ask the Oracle
+    Action: (03) Weaken
+    Theme: (94) Path
+
+... we help him not just recover the caravan, but hunt down whoever (whatever?) has been picking people off in the near by wilderness. (i.e., the path for caravans has been weakened, and needs to be fixed).
+
+    This bumps up the difficulty of that vow by one, I think.
+
+Rhian agrees. "That seems more than fair. I will see you in two days?"
+
+"Two days. Meet me here. We will set out early."
+
+'That will be the morning after the fight,' Rhian thinks to himself. 'I suppose I will have to make due with whatever rest I'm able to get.'
+
+Rhian and Haleema shake hands ane part ways.
+
+    Acquired Rui's journal on the firstborn
+    Reach a Milestone - Solve the mystery surrounding Rui's death
+    [x][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+
+Rhian takes the next day to rest for his fight. He's not quite sure what to expect. To take his mind off things, he flips through Rui's journal. There's a lot of information in there, but it's fragmented and lacks context. Besides notes and drawings, there are also a couple odds and ends tucked into the pages (e.g. a feather, a pressed leaf). Maybe this will all make sense further down the road.
+
+The pit fights happen just out of sight of town in a clearing a short way around the mountain. The sun has just gone down as Rhian arrives, and a pair of bonfires have already been lit so the spectators can see the combatants.
+
+    Does Rhian see Kiriad here?
+    Ask the Oracle
+    Unlikely
+    88, yes he does.
+
+Rhian finds a place to wait and watches people arrive. Eventually, he sees Kiriad arrive, and begins to walk over to her. She does not want to be seen with Rhian. She shoots daggers at him with her eyes.
+
+    Does Rhian catch the hint?
+    Face Danger, +wits
+    (2+2 vs 6,10) miss
+
+    Pay the Price
+    Kiriad's brother walks up
+
+Rhian does not catch the hint and walks right up to Kiriad.
+
+Rhian: So, how exactly does all this work?
+Kiriad: What are you doing? I told you to lay low. We can't be seen together.
+Rhian: I'm fighting on your behalf. I figured you'd tell me what happens next.
+Kiriad: This isn't reading the spheres. Wait for them to call for...
+
+... and Kiriad's brother, Emelyn, walks up.
+
+    Emelyn
+    32: Wary
+    86: Sick
+
+Emelyn: Hello, sis. Who's your friend?
+Kiriad: This newcomer was just asking how long until the fight starts.
+Emelyn: Tell us your name, friend.
+
+Rhian gets Kiriad's hint now.
+
+Rhian: I'm Rhian. I was just trying to figure out how all this works.
+Emelyn: If you want to fight or bet, see the circle master. Otherwise, just sit back and watch.
+Rhian: That's very helpful, thank you. I'll go see the circle master then.
+Emelyn: Best of luck... Rhian. Come along Kiri. Let's find a seat.
+
+Emelyn eyes Rhian as he walks away. Once Rhian is out of ear shot, Emelyn says something to Kiriad that Rhian can't hear. Kiriad is trying to hide her irritation, but Emelyn knows her and probably sees it.
+
+That certainly could have gone worse. Emelyn was a bit standoffish, which allowed Rhian to bow out quickly. But Kiriad certainly won't be happy about this.
+
+    Meta: Will this undermine Kiriad's plan? Will Emelyn bet everything like he's supposed to?
+
+Rhian eventually finds his way to the circle master. Rhian is given a stone with a few marks on it. The fights are assigned randomly, and he should step up when his number is called. The circle master tells Rhian that Belloy will have to be secured somewhere. Someone finds a rope to use as a leash, and one of the townsfolk takes Belloy someplace where the circle isn't visible.
+
+Rhian is able to watch a couple fights before his number is called.
+
+    How difficult will Rhian's fight be?
+    Ask the Oracle
+    1-35:   Troublesome
+    36-90:  Dangerous
+    91-100: Formidable
+    (61) Dangerous
+
+    How will Rhian's opponent fight?
+    Combat Action
+    (78) Create an opportunity
+
+The circle master approaches Rhian and his opponent. "What are your names, and where are you from."
+
+"Rhian, from Stonecrest."
+
+"Namba. Tempest Hills."
+
+"All right. The rules are no weapons, the fire is off limits, and the first man unconscious loses. You can tap out at any time. Understand? Good."
+
+The circle master announces Rhian's name first, and there are a couple polite cheers. When Namba's name is announced, there's a vigorous cheer from a small group. Looks like Namba has a crew here to support him.
+
+The circle master yells, "Fight!" and Rhian and Namba begin to circle each other.
+
+    Enter the Fray, +heart
+    (4+3 vs 1,10) weak hit
+    Take initiative
+
+Rhian tests the water by taking a step forward. Every time he does Namba retreats. Rhian can tell Namba isn't going to make the first move.
+
+    Strike, +iron
+    (2+2 vs 2,7) weak hit
+    Inflict harm, lose initiative
+    [#][#][ ][ ][ ][ ][ ][ ][ ][ ]
+
+Rhian feints an advance, which sets Namba off guard. This allows Rhian to close the distance between the two of them and land a couple body blows. Namba takes the hit, but counters by redirecting Rhian's momentum. Rhian goes tumbling towards the edge of the circle, to the amusement of everyone.
+
+Rhian is off guard, and is unaware of Namba's advance.
+
+    Face Danger, +edge
+    (1+1 vs 3,5) miss
+    Lose initiative
+
+    Endure Harm -2 (3), roll +health
+    (4+3 vs 3,4) strong hit
+    Take initiative
+    -1 momentum, +1 health (4)
+
+Rhian takes a blow square to the ribs, and winces in pain. He uses the opportunity to grab Namba's arm, and get him into a grapple. Rhian swings his elbow at Namba's face.
+
+    Strike, +iron
+    (5+2 vs 4,8) weak hit
+    Inflict harm, lose initiative
+    [#][#][#][#][ ][ ][ ][ ][ ][ ]
+
+Rhian's elbow connects, but Namba is able to twirl out of Rhian's hold in the process. Rhian has learned from the last time and is not nearly as suprirsed. He prepares for Namba's attack.
+
+    Clash, +iron
+    (3+2 vs 4,8) weak hit
+    [#][#][#][#][#][#][ ][ ][ ][ ]
+
+    Pay the Price
+    Endure Harm, -2 (2), roll +iron
+    (4+2 vs 2,5) strong hit
+    Embrace the pain, +1 momentum
+    Take initiative
+
+Namba flies at Rhian. Namba intended a clean blow, but Rhian's counter attack sends them both tumbling to the ground. Rhian can taste blood in his mouth, but sees his chance to pin Namba.
+
+    End the Fight
+    (6,7) miss
+
+Rhian tries to get a knee on Namba's neck, but Namba is too quick. Namba gets a hold of Rhian's arm and drives his face into the dirt. Rhian chokes on the dirt and can barely get the words out to forfeit the fight. A humiliating way to end the fight, face down in the middle of the circle.
+
+    Endure Stress, -2 (3), roll +heart
+    (3+3 vs 4,7) weak hit
+    Embrace the Darkness: +1 momentum
+
+Namba releases Rhian's arm and the circle master announces Namba as the winner. The crowd cheers.
+
+After receiving his accolades from the crowd, Namba helps Rhian up off the ground. "Are you alright? That was well fought, newcomer."
+
+Rhian coughs and spits a bit of mud. "Nothing a couple days rest won't remedy."
+
+Namba raises Rhian's hand, encouraging the crowd to cheer for Rhian as well.
+
+"No hard feeling, newcomer. That's how things go in the circle. Come on, my friends have a flask and we're willing to share."
+
+"No, I don't think I'm in the mood. Thank you though."
+
+"Well, then, until next time." Namba returns to his friends who greet him with cheers. Rhian limps off to find Belloy and tend to his wounds.
+
+Rhian decides it's probably best to avoid Kiriad and does not look for her. He heads back to the lodge, and patches himself up.
+
+    Heal, +iron, +2 (herbalist)
+    (6+4 vs 3,4) strong hit
+    +2 health
+
+Before going to sleep, he tries to find Fanir.
+
+Fanir: "You look like shit."
+Rhian: "The debt is paid. Are you going to tell me what I want to know?"
+Fanir: "I don't have my coat yet."
+Rhian: "I did what Kiriad asked. I'm sure she'll give it back to you. Besides, I have something I have to go do tomorrow. I want to get this wrapped up before I have to leave."
+
+    Compel, +heart
+    (6+3 vs 1,6) strong hit
+
+Rhian: "Kiriad asked me to fight. I fought." Rhian points at his face. "You'll get your coat."
+Fanir: "... Fine!"
+
+    What does Fanir tell us about Rui?
+
+
+Health: 4
+Spirit: 3
+Supply: 5
+Momentum: 9
+Belloy: 4
