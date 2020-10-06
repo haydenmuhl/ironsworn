@@ -38,8 +38,8 @@ Inciting Incident/Background Vow: Someone steals something from the Ancient temp
 
     Find who killed Rui. Make them pay. Return what was stolen.
     Rank: Extreme
-    [x][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+    [#][ ][ ][ ][ ][ ][ ][ ][ ][ ]
 
-	Stop whatever is attacking caravans near Sword Ridge
-	Rank: Formidable
+    Stop whatever is attacking caravans near Sword Ridge
+    Rank: Formidable
     [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]

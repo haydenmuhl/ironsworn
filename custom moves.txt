@@ -1,11 +1,14 @@
-Retrace your steps
+Tread a Path (work in progress)
 
-When you travel along a route you know well and feel are relatively safe, you may make this move instead of Undertake a Journey. Roll +wits.
+When you travel a moderate distance along a path you know well, or a well established route, roll +wits.
 
-Strong hit, you arrive at your destination. Describe your journey (+1 momentum?)
-Weak hit, you arrive at your destination, but choose one:
+On a strong hit, you arrive at your destination without issue. Take +1 momentum.
 
-    -
-    -
+On a weak hit, you arrive at your destination, but suffer a minor setback. Pick one.
+ * Envision a problem at your destination
+ * Envision a problem that you bring with you to your destination
+ * Your journey is grueling, Pay the Price
 
-Miss, misfortune befalls you along your way. Pay the Price, then roll this move again.
+On a miss, you encounter a danger that must be dealt with. Once you have dealt with the problem at hand, Tread a Path again, and choose one before you roll.
+ * Add +1
+ * Treat a miss as a weak hit
