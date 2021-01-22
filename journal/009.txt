@@ -43,3 +43,9 @@ Traveling on, Rhian is the first to spot a sign of the caravan.
 Rhian eventually realizes, they've been seeing signs of the caravan for a while now, but didn't notice it because they were subtle at first, and have been getting more obvious. Since they're traveling the opposite direction of the caravan, that means that the caravan's tracks became weaker over time. It's like the caravan began to dwindle, or scatter over time. The remains of the caravan may not be in one spot, but spread out and lost throughout the woods. Were they picked off one by one? Were they lured away or enchanted by something?
 
 The party was heading north from Sword Ridge with Fornley Valley to the east. The main road is further west, with the shortcut closer to the valley. As they investigate the tracks further, they notice there are no signs of the caravan to the west of the path. Whatever pulled the caravan apart, it's somewhere in the valley below. And Rhian recognizes this place, and tells Haleema of his experience on his trip to Sword Ridge.
+
+Momentum: 10
+Health:   4
+Spirit:   3
+Supply:   5
+Belloy:   4

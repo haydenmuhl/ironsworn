@@ -1,0 +1,72 @@
+Setting up for a Delve
+
+    Discover a Site
+
+    Possible Domains
+    * Ruin
+    * Cavern
+    * Mine
+    * Tanglewood (this means the whole valley is the site)
+    * Barrow
+    * Underkeep
+
+    Possible Themes
+    * Ancient
+    * Infested
+    * Corrupted
+    * Haunted
+
+    N.B. Avoiding the Wild theme. It doesn't explain what happened to the caravan, and it would just be... a forest.
+
+    Site - The Fornley Valley Mine
+    Theme: Infested
+    Domain: Mine
+
+    Rhian and Haleema will have to travel a bit through the forest to find the mine.
+
+    Rank: Dangerous or Formidable
+
+    Ask the Oracle
+    Dangerous (1-50)
+    Formidable (51-100)
+    7 - Dangerous
+
+    Meta: The site is a mine _in_ the forest. Maybe a troublesome journey to get to the mine?
+
+Rhian and Haleema look for the most obvious tracks leading into the forest and begin to track them.
+
+    Undertake a Journey, +wits
+    Follow the tracks of the caravan through the forest
+    Rank: Troublesome
+    (4+2 vs 10,10) Miss, complication
+    [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+
+    You are waylaid by a perilous event, Pay the Price
+
+    Pay the Price
+    4 - A person or community you trusted loses faith in you, or acts against you.
+
+    The only person that could be is Haleema. Let's roll action and theme to see how he betrays us.
+    Action - (91) Escalate
+    Theme - (23) Tool (wat) (32) Superstition
+
+Rhian leads the way with Belloy helping to follow the tracks. It's not long before the trail runs cold and Haleema begins to get nervous. Haleema insists on turning back to the road, but when we turn back, there's nothing but thick, unfamiliar folliage. We are helplessly lost. Haleema gets angry and makes a passive aggressive comment about how Rui wouldn't have gotten lost like this, and that Rhian isn't worthy to carry her axe.
+
+    Haleema thinks he'd be more worthy to carry Rui's axe, and begins to think how he could take it.
+
+Rhian tries to defuse the situation and suggests they find a place to camp for the night. A night's sleep and the morning light might give new perspective on their problem. The sun is setting, so Haleema begrudgingly agrees, but the atmosphere remains tense.
+
+    Make Camp, +supply
+    (6+5 vs 5,5) strong hit, opportunity
+    +1 health
+    +1 spirit
+
+Rhian spent the night here once before and got a bad feeling about the place, so suggests looking for a secure place to sleep for the night. Rhian suggests sleeping off the ground and is able to find a tree that will hold the three of them. The tree looks ancient and has a few large branches that droop to the ground and make it easy enough to scramble up into the broad, mossy branches. Belloy whines a bit, but is able to make the climb with a little encouragement.
+
+Rhian tries to mend things with Haleema by talking a bit more about the last time he was here, and pointing out the odd tension as night falls. The next morning Rhian scrambles up a little higher in the tree to get a better view of the surroundings, and is able to make out a strange scar in the landscape deeper in the valley. With no better lead, they decide to make that their next destination. They don't know it yet, but they've spotted the old mine.
+
+Momentum: 10
+Health:   5
+Spirit:   4
+Supply:   5
+Belloy:   4
